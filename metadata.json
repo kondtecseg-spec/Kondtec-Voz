@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Martins - Assistente de Voz",
+  "description": "Um assistente de voz inteligente alimentado pelo Gemini, semelhante à Alexa, que responde ao comando 'Martins'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
